@@ -1,215 +1,228 @@
 <div align="center">
 
-<!-- ═══════ HEADER ═══════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,25:001a2e,50:002b14,75:001a2e,100:0d0d0d&height=160&section=header&text=SAURABH%20GAUR&fontSize=56&fontColor=00ff41&fontAlignY=58&desc=agentic%20ai%20engineer%20%E2%80%A2%20llm%20evaluator%20%E2%80%A2%20systems%20architect&descAlignY=80&descSize=15&descColor=00bfff&animation=twinkling"/>
+<!-- ══════════════ HEADER ══════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080010,20:0d001a,45:1e0040,70:0d001a,100:080010&height=220&section=header&text=SAURABH+GAUR&fontSize=72&fontColor=ff8c00&fontAlignY=52&desc=intelligence+architect+%C2%B7+frontier+evaluator+%C2%B7+systems+strategist&descAlignY=72&descSize=14&descColor=9b5de5&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=900&color=00FF41&center=true&vCenter=true&repeat=true&width=700&height=40&lines=i+find+where+frontier+AI+breaks+%E2%80%94+before+it+ships.;LLM+evaluator+%7C+agentic+systems+%7C+RLHF+pipelines.;building+LaptopPulse+%2B+AI+Resume+Copilot.;open+to+remote+roles+%2F+high-ticket+contracts."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2800&pause=1100&color=FF8C00&center=true&vCenter=true&repeat=true&width=780&height=45&lines=i+decide+where+intelligence+ends+%26+hallucination+begins.;eval+%E2%86%92+RLHF+%E2%86%92+the+next+frontier+model+runs+on+my+judgment.;i+don%27t+use+AI+tools.+i+shape+what+they+become.;operating+at+the+layer+most+engineers+never+reach.;few+people+define+%22correct%22.+i%27m+one+of+them."/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/status-open%20to%20work-00ff41?style=for-the-badge&labelColor=0d0d0d"/>
-<img src="https://img.shields.io/badge/domain-frontier%20AI%20%C2%B7%20agentic%20systems-00bfff?style=for-the-badge&labelColor=0a0a1a"/>
-<img src="https://img.shields.io/badge/timezone-IST%20%2F%20flexible-00ff41?style=for-the-badge&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/%E2%97%88_FRONTIER_MODEL_EVALUATION-7b2fff?style=for-the-badge&labelColor=0d001a"/>
+&nbsp;
+<img src="https://img.shields.io/badge/%E2%97%88_OPEN_TO_REMOTE_ROLES-ff8c00?style=for-the-badge&labelColor=0d001a"/>
+&nbsp;
+<img src="https://img.shields.io/badge/%E2%97%88_IST_%2F_FLEXIBLE-00cfff?style=for-the-badge&labelColor=0d001a"/>
 
 <br><br>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=DEVsaurabhgaur.DEVsaurabhgaur&left_color=0d0d0d&right_color=00bfff&left_text=visitors"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=DEVsaurabhgaur.DEVsaurabhgaur&left_color=0d001a&right_color=7b2fff&left_text=signal+received"/>
 
 </div>
 
 ---
 
-## `// about`
+## `[ INITIALIZE ]`
 
 ```bash
-┌──[saurabh@frontier:~]
-└─$ whoami
+┌──[saurabh@intelligence-layer ~]
+└─$ cat identity.core
 
-  name     ──  Saurabh Gaur
-  role     ──  Agentic AI Engineer · LLM Evaluator
-  location ──  Rudrapur, India  [ remote-first ]
-  current  ──  frontier model eval @ Outlier.ai  [ OpenClaw Atlas ]
+  alias    ──  ITACHI
+  domain   ──  Frontier AI Evaluation  ·  Agentic Systems Architecture
+  base     ──  Rudrapur, India  ∷  remote-first · timezone-flexible
+  active   ──  Frontier LLM Eval @ Outlier.ai  [ OpenClaw Atlas · present ]
   building ──  LaptopPulse  ·  AI Resume Copilot
-  open to  ──  full-time remote  ·  contracts  ·  consulting
-  contact  ──  saurabhgaur122000@gmail.com
+  degree   ──  B.Tech CSE · AKTU 2025  [ First Division ]
+  target   ──  top-tier AI labs  ·  product companies at scale
+               roles where the work shapes the field — not just ships features
 ```
 
 ```bash
-└─$ cat philosophy.txt
+└─$ cat signal.txt
 
-  // most engineers use AI tools.
-  // i figure out exactly where they break.
+  // most engineers implement at the instruction layer.
+  // i work one level above that — at the evaluation layer —
+  // where the criteria for "correct" actually gets defined.
   //
-  // the person who writes the evaluation criteria
-  // decides what "intelligent" actually means.
+  // that's where frontier models learn what intelligence means.
+  // that's the leverage point.
   //
-  // i work at that layer.
-  // that's why it matters.
+  // i chose this deliberately.
 ```
 
 ---
 
-## `// what i do`
+<div align="center">
 
 ```
-╔─────────────────────────────────────────────────────────────────╗
-║                                                                 ║
-║  FRONTIER MODEL EVALUATION                                      ║
-║  ↳ design multi-server agent eval frameworks                   ║
-║  ↳ build failure taxonomies → fed into RLHF pipelines          ║
-║  ↳ expose what standard benchmarks miss                        ║
-║                                                                 ║
-║  AGENTIC PIPELINE ARCHITECTURE                                  ║
-║  ↳ LangGraph / LangChain multi-agent systems                   ║
-║  ↳ tool-use · memory persistence · context switching           ║
-║                                                                 ║
-║  RAG SYSTEMS                                                    ║
-║  ↳ FAISS / Chroma vector stores                                ║
-║  ↳ retrieval pipelines · embedding strategies                  ║
-║                                                                 ║
-║  RLHF DATA ENGINEERING                                         ║
-║  ↳ structured synthetic datasets                               ║
-║  ↳ instruction-following eval at scale                         ║
-║                                                                 ║
-╚─────────────────────────────────────────────────────────────────╝
+  ╔══════════════════════════════════════════════════════════════╗
+  ║                                                              ║
+  ║    ░▓▓▓  DOMAIN EXPANSION : INFINITE VOID  ▓▓▓░            ║
+  ║                                                              ║
+  ║         [ i n t e l l i g e n c e  ·  l a y e r ]         ║
+  ║                                                              ║
+  ╚══════════════════════════════════════════════════════════════╝
 ```
+
+</div>
+
+<br>
+
+**`◈` &nbsp; FRONTIER MODEL EVALUATION**
+> Design eval architectures that expose failure modes standard benchmarks miss. Outputs route directly into RLHF training pipelines. I'm not just testing the model — I'm shaping the next version of it.
+
+**`◈` &nbsp; AGENTIC SYSTEMS ARCHITECTURE**
+> LangGraph · LangChain multi-agent systems. Tool-use chains, memory persistence, context routing under constraint. Architecture over implementation — always.
+
+**`◈` &nbsp; RAG INFRASTRUCTURE**
+> FAISS · Chroma vector stores. Retrieval pipelines, embedding strategies, precision-at-K tuning. Built for production, not demos.
+
+**`◈` &nbsp; SYSTEMS THINKING**
+> Decomposing the problem correctly is 80% of the work. Most engineers skip this and wonder why their implementation fails. I don't skip this.
 
 ---
 
-## `// status`
+## `[ ACTIVE TRANSMISSIONS ]`
 
-```bash
-└─$ cat status.log
-
-  [ ● LIVE ]  OpenClaw Atlas  ──  frontier LLM eval @ Outlier.ai
-  [ ● LIVE ]  LaptopPulse     ──  AI hardware intelligence daemon
-  [ ● LIVE ]  Resume Copilot  ──  Claude API · GitHub Pages
-
-  [ ◌ OPEN ]  full-time remote AI roles
-  [ ◌ OPEN ]  high-ticket LLM evaluation contracts
-  [ ◌ OPEN ]  agentic systems consulting
-```
-
----
-
-## `// stack`
-
-**`[ ai & agents ]`**
-
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=00ff41)
-![LangGraph](https://img.shields.io/badge/LangGraph-0a0a1a?style=flat-square&logoColor=00bfff)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat-square&logoColor=00ff41)
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-0a0a1a?style=flat-square&logo=openai&logoColor=00bfff)
-![Anthropic](https://img.shields.io/badge/Anthropic%20API-000000?style=flat-square&logoColor=00ff41)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0a0a1a?style=flat-square&logo=huggingface&logoColor=00bfff)
-![FAISS](https://img.shields.io/badge/FAISS-000000?style=flat-square&logoColor=00ff41)
-![Chroma](https://img.shields.io/badge/Chroma-0a0a1a?style=flat-square&logoColor=00bfff)
-![Prompt Eng](https://img.shields.io/badge/Prompt%20Engineering-000000?style=flat-square&logoColor=00ff41)
-![RLHF](https://img.shields.io/badge/RLHF%20Pipelines-0a0a1a?style=flat-square&logoColor=00bfff)
-
-**`[ languages & infra ]`**
-
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00ff41)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0a1a?style=flat-square&logo=typescript&logoColor=00bfff)
-![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=00ff41)
-![Flask](https://img.shields.io/badge/Flask-0a0a1a?style=flat-square&logo=flask&logoColor=00bfff)
-![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=00ff41)
-![Linux](https://img.shields.io/badge/Linux%20CLI-0a0a1a?style=flat-square&logo=linux&logoColor=00bfff)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000000?style=flat-square&logo=githubactions&logoColor=00ff41)
-![Windows API](https://img.shields.io/badge/Windows%20API-0a0a1a?style=flat-square&logo=windows&logoColor=00bfff)
-![SQLite](https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=00ff41)
-
-**`[ evaluation ]`**
-
-![LLM Eval](https://img.shields.io/badge/LLM%20Evaluation-000000?style=flat-square&logoColor=00ff41)
-![Failure Taxonomy](https://img.shields.io/badge/Failure%20Taxonomy%20Design-0a0a1a?style=flat-square&logoColor=00bfff)
-![Adversarial Testing](https://img.shields.io/badge/Adversarial%20Testing-000000?style=flat-square&logoColor=00ff41)
-![Benchmark Design](https://img.shields.io/badge/Benchmark%20Architecture-0a0a1a?style=flat-square&logoColor=00bfff)
-![Synthetic Data](https://img.shields.io/badge/Synthetic%20Dataset%20Design-000000?style=flat-square&logoColor=00ff41)
-
----
-
-## `// projects`
+<br>
 
 ### ⟨ 01 ⟩ &nbsp; OpenClaw Atlas &nbsp;—&nbsp; Frontier LLM Evaluation Framework
-> `outlier.ai · frontier model eval · apr 2026 – present`
+> `Outlier.ai · Apr 2026 – present`
 
 ```
 problem:
-  frontier AI agents break in specific ways across multi-server environments.
-  standard benchmarks don't catch it.
+  frontier agents break in specific patterns across multi-server environments.
+  standard benchmarks never catch it at this fidelity.
   nobody had built a framework that did.
 
-what i built:
+built:
   evaluation architecture spanning 6 synthetic data servers
-  with deliberate cross-domain contradictions to surface:
+  with deliberate cross-domain contradictions. surfaces:
 
-  ├── time-domain reasoning failures under conflicting calendar data
+  ├── time-domain reasoning failures under conflicting calendar signals
   ├── memory persistence degradation across multi-turn agent tasks
   ├── privacy boundary violations
   ├── multi-source synthesis errors across domain personas
   └── defamation-risk refusal pattern failures
 
-why it matters:
-  outputs go directly into RLHF training pipelines.
-  this work shapes how frontier models reason in the next version.
+output:
+  directly into RLHF training pipelines.
+  this isn't a portfolio project. this shapes live frontier models.
 ```
 
 ---
 
 ### ⟨ 02 ⟩ &nbsp; LaptopPulse &nbsp;—&nbsp; AI Hardware Intelligence Daemon
-> `indie product · python · windows · jun 2026 – present`
+> `indie product · Python · Windows · Jun 2026 – present`
 
 ```
 problem:
-  non-technical users have zero signal on hardware degradation
-  until something breaks completely.
+  non-technical users have zero signal on hardware health
+  until the machine fails completely.
   the thermal data exists. the plain-language insight doesn't.
 
-what i built:
-  windows background daemon
-  reads CPU/GPU thermals in real-time
-  detects patterns → runs LLM analysis → plain-english maintenance report
-  zero technical knowledge needed from the user.
+built:
+  windows background daemon · real-time CPU/GPU thermal reads
+  via LibreHardwareMonitor · pattern detection → LLM inference
+  → plain-english maintenance report · zero technical knowledge required.
 
-status  : live on GitHub Pages
-device  : ASUS TUF A15 [ ryzen 7 5800H / RTX 3060 ]
-repo    : github.com/DEVsaurabhgaur/LaptopPulse
+status  :  live · deployed · health score 92/100 on dev machine
+stack   :  python · flask · react/vite · typescript
+repo    :  github.com/DEVsaurabhgaur/LaptopPulse
 ```
 
 ---
 
-### ⟨ 03 ⟩ &nbsp; AI Resume & Job Application Copilot
-> `tool · html/css/js + claude API · 2026`
+### ⟨ 03 ⟩ &nbsp; AI Resume Copilot &nbsp;—&nbsp; Job Application Intelligence
+> `tool · HTML/JS + Claude API · 2026`
 
 ```
-problem:
-  job applications are a system. most people treat it like luck.
+built:
+  ATS optimization · role targeting · cover letter generation
+  application tracking — single tool, zero backend, zero friction.
+  claude API · deployed on github pages.
 
-what i built:
-  ATS optimization + role targeting + cover letter generation
-  + application tracking — single tool, zero backend.
-  claude API. deployed on github pages.
+insight:
+  job applications are a system. most people play it like luck.
+  this turns it into a pipeline.
 ```
 
 ---
 
-## `// stats`
+## `[ STACK ]`
+
+```
+[ AI · INTELLIGENCE ]
+  LangChain · LangGraph · LlamaIndex · FAISS · Chroma
+  OpenAI API · Anthropic API · HuggingFace
+  RLHF Pipelines · Adversarial Testing · Benchmark Architecture
+  Synthetic Dataset Design · LLM Evaluation · Prompt Engineering
+
+[ ENGINEERING ]
+  Python · TypeScript · React · Flask · Docker
+  GitHub Actions · Linux CLI · Windows API · SQLite
+
+[ META-LAYER ]  ← this is where the real work happens
+  Failure Taxonomy Design · Systems Architecture
+  Cross-domain Reasoning · Strategic Problem Decomposition
+  Evaluation Criteria Design
+```
+
+---
+
+## `[ CURRENTLY EXPLORING ]`
+
+```bash
+└─$ tail -f research.log
+
+  ▸ constitutional AI · RLAIF · direct preference optimization ( DPO )
+  ▸ multi-agent coordination protocols · emergent agent behavior
+  ▸ interpretability methods for frontier models
+  ▸ evaluation frameworks for agentic long-horizon tasks
+```
+
+---
+
+## `[ AXIOMS ]`
+
+```
+01 ──  the person who writes the evaluation criteria
+       controls what "intelligent" means.
+       most people never realize this is a job.
+
+02 ──  tools change every quarter.
+       thinking doesn't.
+       learn to think — not what to think.
+
+03 ──  ship. break. fix. repeat.
+       perfection at zero users is fear
+       wearing a lab coat.
+
+04 ──  compound in silence.
+       don't announce the plan.
+       show up with the outcome.
+
+05 ──  if it isn't in git, it didn't happen.
+```
+
+---
+
+## `[ SIGNAL METRICS ]`
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=DEVsaurabhgaur&show_icons=true&bg_color=0a0a0f&border_color=00bfff&title_color=00ff41&icon_color=00bfff&text_color=888888&count_private=true&include_all_commits=true&hide_border=false"/>
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVsaurabhgaur&layout=compact&bg_color=0a0a0f&border_color=00ff41&title_color=00bfff&text_color=888888&langs_count=8&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DEVsaurabhgaur&show_icons=true&bg_color=080010&border_color=7b2fff&title_color=ff8c00&icon_color=7b2fff&text_color=9d7fff&count_private=true&include_all_commits=true&hide_border=false"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVsaurabhgaur&layout=compact&bg_color=080010&border_color=ff8c00&title_color=7b2fff&text_color=9d7fff&langs_count=6&hide_border=false"/>
 
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=DEVsaurabhgaur&background=0a0a0f&ring=00ff41&fire=00bfff&currStreakLabel=00ff41&sideLabels=00bfff&currStreakNum=ffffff&sideNums=ffffff&border=00bfff&dates=555555"/>
+<img src="https://streak-stats.demolab.com/?user=DEVsaurabhgaur&background=080010&ring=7b2fff&fire=ff8c00&currStreakLabel=ff8c00&sideLabels=7b2fff&currStreakNum=ffffff&sideNums=c9b3ff&border=7b2fff&dates=666666"/>
 </div>
 
 <br>
@@ -221,77 +234,43 @@ what i built:
 <br>
 
 <div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DEVsaurabhgaur&bg_color=0a0a0f&color=00bfff&line=00ff41&point=00bfff&area=true&area_color=001429&hide_border=false&border_color=00bfff&radius=6"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DEVsaurabhgaur&bg_color=080010&color=7b2fff&line=ff8c00&point=ff8c00&area=true&area_color=1e0040&hide_border=false&border_color=7b2fff&radius=6"/>
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=DEVsaurabhgaur&theme=matrix&column=6&margin-w=10&margin-h=10&no-bg=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=DEVsaurabhgaur&theme=darkhub&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true"/>
 </div>
 
 ---
 
-## `// certs`
-
-| cert | issuer | year |
-|:---|:---|:---:|
-| Google AI Professional Certificate *(7-course)* | Google / Coursera | 2026 |
-| Engineering Technical Associate | micro1 | 2026 |
-| Investment Banking Simulation | JPMorgan Chase | 2025 |
-| Data Science Simulation | British Airways | 2024 |
-| Software Engineering Simulation | Accenture NA | 2024 |
-| Data Analytics Simulation | Accenture NA | 2024 |
-| Blockchain Fundamentals | — | 2024 |
-
----
-
-## `// rules i run on`
-
-```bash
-└─$ cat rules.txt
-
-  01 ──  build first. talk later.
-
-  02 ──  tools change. thinking doesn't.
-         learn to think, not what to think.
-
-  03 ──  the person who writes the evaluation criteria
-         controls what "good" actually means.
-
-  04 ──  ship ugly. fix fast. stay in the game.
-
-  05 ──  if it's not in git, it didn't happen.
-
-  06 ──  compound in silence.
-         don't announce. build.
-```
-
----
-
-## `// find me`
+## `[ ESTABLISH CONNECTION ]`
 
 <div align="center">
 
-```bash
-└─$ ./connect.sh
+```
+transmission open. choose your frequency.
 ```
 
 <br>
 
-[![Email](https://img.shields.io/badge/email-saurabhgaur122000@gmail.com-00ff41?style=for-the-badge&labelColor=0d0d0d&logo=gmail&logoColor=00ff41)](mailto:saurabhgaur122000@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-saurabh--gaur--122k-00bfff?style=for-the-badge&labelColor=0a0a1a&logo=linkedin&logoColor=00bfff)](https://linkedin.com/in/saurabh-gaur-122k)
-[![Portfolio](https://img.shields.io/badge/portfolio-saurabhgaur.world-00ff41?style=for-the-badge&labelColor=0d0d0d&logo=Firefox&logoColor=00ff41)](https://saurabhgaur.world)
-[![GitHub](https://img.shields.io/badge/github-DEVsaurabhgaur-00bfff?style=for-the-badge&labelColor=0a0a1a&logo=github&logoColor=00bfff)](https://github.com/DEVsaurabhgaur)
+[![Email](https://img.shields.io/badge/EMAIL-saurabhgaur122000%40gmail.com-ff8c00?style=for-the-badge&labelColor=080010&logo=gmail&logoColor=ff8c00)](mailto:saurabhgaur122000@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-saurabhgaur--122k-7b2fff?style=for-the-badge&labelColor=080010&logo=linkedin&logoColor=7b2fff)](https://linkedin.com/in/saurabhgaur-122k)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-saurabhgaur.world-ff8c00?style=for-the-badge&labelColor=080010&logo=Firefox&logoColor=ff8c00)](https://saurabhgaur.world)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GITHUB-DEVsaurabhgaur-7b2fff?style=for-the-badge&labelColor=080010&logo=github&logoColor=7b2fff)](https://github.com/DEVsaurabhgaur)
 
 <br>
 
-**open to:** &nbsp; remote AI roles &nbsp;·&nbsp; LLM evaluation contracts &nbsp;·&nbsp; agentic systems engineering &nbsp;·&nbsp; AI consulting
+`looking for:` &nbsp; **remote AI roles at top-tier labs & product companies** &nbsp;·&nbsp; **LLM evaluation contracts** &nbsp;·&nbsp; **agentic systems consulting**
 
 </div>
 
 ---
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,25:001a2e,50:002b14,75:001a2e,100:0d0d0d&height=90&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080010,20:0d001a,45:1e0040,70:0d001a,100:080010&height=100&section=footer"/>
 </div>
