@@ -4,11 +4,9 @@
 <img src="https://img.shields.io/badge/OUTLIER.AI-OPENCLAW%20ATLAS-3A5200?style=for-the-badge&labelColor=000000&color=3A5200"/>
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-CCFF00?style=for-the-badge&labelColor=000000&color=CCFF00"/>
 
-// DOSSIER SG-01 · ESTABLISHED 2025 · ACTIVE
-
 # SAURABH GAUR
 
-**intelligence architect · frontier evaluator · systems strategist**
+**AI Architect · DeVeLoPeR · AI Product ManaGer**
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=12&duration=3000&pause=1000&color=88BB00&background=000000&center=true&vCenter=true&width=600&lines=%3E+i+decide+where+intelligence+ends+%26+hallucination+begins.;%3E+eval+%E2%86%92+RLHF+%E2%86%92+the+next+frontier+model+runs+on+my+judgment.;%3E+i+don't+use+AI+tools.+i+shape+what+they+become.;%3E+operating+at+the+layer+most+engineers+never+reach.;%3E+few+people+define+%22correct%22.+i'm+one+of+them." alt="Typing Ticker"/>
 
@@ -36,29 +34,10 @@
 ```
 
 | KEY | VALUE |
-| **domain** | Frontier AI Evaluation · Agentic Systems Architecture |
+| **domain** | AI Architect · DeVeLoPeR · AI Product MANAGER |
 | **base** | Rudrapur, India ∷ remote-first · timezone-flexible |
-| **active** | `Frontier LLM Eval @ Outlier.ai [ OpenClaw Atlas · present ]` |
-| **building** | LaptopPulse · AI Resume Copilot · saurabhgaur.world |
 | **degree** | B.Tech CSE · AKTU 2025 [ First Division ] |
 | **target** | top-tier AI labs · product companies at scale |
-
-```
-└─$ cat signal.txt
-```
-
-```
-// most engineers implement at the instruction layer.
-// i work one level above that — at the evaluation layer —
-// where the criteria for "correct" actually gets defined.
-//
-// that's where frontier models learn what intelligence means.
-// that's the leverage point. i chose this deliberately.
-```
-
-```
-└─$ █
-```
 
 <div align="center">
 
@@ -83,13 +62,6 @@
 ```
 
 </div>
-
-| | |
-|:---|:---|
-| **◈ 01 — Frontier Model Evaluation** | Design eval architectures that expose failure modes standard benchmarks miss. Outputs route directly into RLHF training pipelines. Not just testing — shaping the next version. |
-| **◈ 02 — Agentic Systems Architecture** | LangGraph · LangChain multi-agent systems. Tool-use chains, memory persistence, context routing under constraint. Architecture over implementation — always. |
-| **◈ 03 — RAG Infrastructure** | FAISS · Chroma vector stores. Retrieval pipelines, embedding strategies, precision-at-K tuning. Built for production, not demos. |
-| **◈ 04 — Systems Thinking** | Decomposing the problem correctly is 80% of the work. Most engineers skip this and wonder why their implementation fails. I don't skip this. |
 
 <div align="center">
 
