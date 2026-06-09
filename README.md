@@ -700,6 +700,18 @@ footer {
 .footer-copy { font-size: 9px; color: var(--grey-dim); letter-spacing: 0.15em; }
 
 /* ══════════════════════════════════════════════
+   CAPSULE FOOTER WAVE
+══════════════════════════════════════════════ */
+.capsule-footer {
+  width: 100%;
+  display: block;
+  margin: 0;
+  padding: 0;
+  border: none;
+  outline: none;
+}
+
+/* ══════════════════════════════════════════════
    UTILITIES
 ══════════════════════════════════════════════ */
 .kiwi  { color: var(--kiwi); }
@@ -735,6 +747,7 @@ footer {
 }
 .explore-arrow { color: var(--kiwi); flex-shrink: 0; }
 </style>
+<base target="_blank">
 </head>
 <body>
 
@@ -807,7 +820,7 @@ footer {
       <div class="badge"><span class="badge-dot"></span>IST / FLEXIBLE</div>
     </div>
 
-    <!-- ── VISITOR BADGE (added) ── -->
+    <!-- ── VISITOR BADGE ── -->
     <div class="hero-visitor">
       <img
         src="https://visitor-badge.laobi.icu/badge?page_id=DEVsaurabhgaur.DEVsaurabhgaur&left_color=040800&right_color=3A5200&left_text=signal+received&right_text_color=CCFF00"
@@ -847,6 +860,7 @@ footer {
       <div class="term-row"><span class="term-key">building</span><span class="dim">──</span><span class="term-val">LaptopPulse · AI Resume Copilot · saurabhgaur.world</span></div>
       <div class="term-row"><span class="term-key">degree</span><span class="dim">──</span><span class="term-val">B.Tech CSE · AKTU 2025 [ First Division ]</span></div>
       <div class="term-row"><span class="term-key">target</span><span class="dim">──</span><span class="term-val">top-tier AI labs · product companies at scale</span></div>
+      <div class="term-row"><span class="term-key"></span><span class="dim">──</span><span class="term-val kiwi">roles where the work shapes the field — not just ships features</span></div>
     </div>
 
     <div class="terminal mt16">
@@ -949,8 +963,10 @@ footer {
           <div class="tree-item"><span class="tree-icon">└──</span>defamation-risk refusal pattern failures</div>
         </div>
 
+        <div class="trans-label">// OUTPUT</div>
+        <div class="trans-text">Directly into RLHF training pipelines. This isn't a portfolio project. This shapes live frontier models.</div>
+
         <div class="status-row">
-          <div class="status-item"><span class="status-key">OUTPUT</span><span class="status-val">RLHF pipelines · live frontier models</span></div>
           <div class="status-item"><span class="status-key">STATUS</span><span class="status-val kiwi">ACTIVE</span></div>
         </div>
       </div>
@@ -1017,7 +1033,8 @@ footer {
           <span class="stag">FAISS</span><span class="stag">Chroma</span><span class="stag">OpenAI API</span>
           <span class="stag">Anthropic API</span><span class="stag">HuggingFace</span>
           <span class="stag">RLHF Pipelines</span><span class="stag">Adversarial Testing</span>
-          <span class="stag">Stable Diffusion</span><span class="stag">Prompt Engineering</span>
+          <span class="stag">Benchmark Architecture</span><span class="stag">Synthetic Dataset Design</span>
+          <span class="stag">LLM Evaluation</span><span class="stag">Prompt Engineering</span>
         </div>
       </div>
       <div class="stack-block">
@@ -1132,7 +1149,7 @@ footer {
       <img src="https://streak-stats.demolab.com/?user=DEVsaurabhgaur&background=040800&ring=CCFF00&fire=DFFF00&currStreakLabel=CCFF00&sideLabels=88BB00&currStreakNum=E8FFD0&sideNums=7A9A60&border=3A5200&dates=3A5200" alt="Streak Stats"/>
     </div>
 
-    <!-- ── SNAKE CONTRIBUTION GRID (added) ── -->
+    <!-- ── SNAKE CONTRIBUTION GRID ── -->
     <div class="metric-full" style="margin: 2px 0; padding: 12px 0;">
       <img
         src="https://raw.githubusercontent.com/DEVsaurabhgaur/DEVsaurabhgaur/output/github-contribution-grid-snake-dark.svg"
@@ -1229,6 +1246,13 @@ footer {
   <div class="footer-line"></div>
   <div class="footer-copy">© 2026 · SAURABH GAUR · ALL TRANSMISSIONS ARCHIVED</div>
 </footer>
+
+<!-- CAPSULE-RENDER FOOTER WAVE -->
+<img 
+  class="capsule-footer" 
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:040800,20:080D00,45:1A2600,70:080D00,100:040800&height=100&section=footer" 
+  alt=""
+/>
 
 <!-- ══════════════════════════════════════════
      SCRIPTS
