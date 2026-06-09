@@ -28,11 +28,6 @@
 
 </div>
 
-```
-┌──[saurabh@intelligence-layer ~]
-└─$ cat identity.core
-```
-
 | KEY | VALUE |
 | **domain** | AI Architect · DeVeLoPeR · AI Product MANAGER |
 | **base** | Rudrapur, India ∷ remote-first · timezone-flexible |
