@@ -422,6 +422,7 @@ body::after {
   border-bottom: 1px solid var(--kiwi-ghost);
   cursor: pointer;
   gap: 12px;
+  user-select: none;
 }
 .trans-num {
   font-size: 9px;
@@ -444,7 +445,17 @@ body::after {
   letter-spacing: 0.1em;
   flex-shrink: 0;
 }
-.trans-body { padding: 20px; }
+/* ── ACCORDION (ADDED) ── */
+.trans-arrow {
+  color: var(--kiwi);
+  font-size: 11px;
+  flex-shrink: 0;
+  transition: transform 220ms ease;
+}
+.transmission.open .trans-arrow { transform: rotate(90deg); }
+.trans-body { display: none; padding: 20px; }
+.transmission.open .trans-body { display: block; }
+/* ─────────────────────── */
 .trans-label {
   font-size: 9px;
   letter-spacing: 0.25em;
@@ -700,18 +711,6 @@ footer {
 .footer-copy { font-size: 9px; color: var(--grey-dim); letter-spacing: 0.15em; }
 
 /* ══════════════════════════════════════════════
-   CAPSULE FOOTER WAVE
-══════════════════════════════════════════════ */
-.capsule-footer {
-  width: 100%;
-  display: block;
-  margin: 0;
-  padding: 0;
-  border: none;
-  outline: none;
-}
-
-/* ══════════════════════════════════════════════
    UTILITIES
 ══════════════════════════════════════════════ */
 .kiwi  { color: var(--kiwi); }
@@ -747,7 +746,6 @@ footer {
 }
 .explore-arrow { color: var(--kiwi); flex-shrink: 0; }
 </style>
-<base target="_blank">
 </head>
 <body>
 
@@ -777,7 +775,7 @@ footer {
     SGF-PRIME // INTELLIGENCE LAYER
   </div>
   <div class="sb-right">
-    <span>OUTLIER.AI · OPENCLAW ATLAS</span>
+    <span id="sb-sector">OUTLIER.AI · OPENCLAW ATLAS</span>
     <span id="sb-time"></span>
   </div>
 </div>
@@ -820,7 +818,6 @@ footer {
       <div class="badge"><span class="badge-dot"></span>IST / FLEXIBLE</div>
     </div>
 
-    <!-- ── VISITOR BADGE ── -->
     <div class="hero-visitor">
       <img
         src="https://visitor-badge.laobi.icu/badge?page_id=DEVsaurabhgaur.DEVsaurabhgaur&left_color=040800&right_color=3A5200&left_text=signal+received&right_text_color=CCFF00"
@@ -860,7 +857,6 @@ footer {
       <div class="term-row"><span class="term-key">building</span><span class="dim">──</span><span class="term-val">LaptopPulse · AI Resume Copilot · saurabhgaur.world</span></div>
       <div class="term-row"><span class="term-key">degree</span><span class="dim">──</span><span class="term-val">B.Tech CSE · AKTU 2025 [ First Division ]</span></div>
       <div class="term-row"><span class="term-key">target</span><span class="dim">──</span><span class="term-val">top-tier AI labs · product companies at scale</span></div>
-      <div class="term-row"><span class="term-key"></span><span class="dim">──</span><span class="term-val kiwi">roles where the work shapes the field — not just ships features</span></div>
     </div>
 
     <div class="terminal mt16">
@@ -943,11 +939,12 @@ footer {
     <div class="section-title">ACTIVE TRANSMISSIONS</div>
 
     <!-- Transmission 01 -->
-    <div class="transmission">
+    <div class="transmission open">
       <div class="trans-header">
         <span class="trans-num">⟨ 01 ⟩</span>
         <span class="trans-title">OpenClaw Atlas</span>
         <span class="trans-tag">OUTLIER.AI · APR 2026 – PRESENT</span>
+        <span class="trans-arrow">▸</span>
       </div>
       <div class="trans-body">
         <div class="trans-label">// PROBLEM</div>
@@ -963,10 +960,8 @@ footer {
           <div class="tree-item"><span class="tree-icon">└──</span>defamation-risk refusal pattern failures</div>
         </div>
 
-        <div class="trans-label">// OUTPUT</div>
-        <div class="trans-text">Directly into RLHF training pipelines. This isn't a portfolio project. This shapes live frontier models.</div>
-
         <div class="status-row">
+          <div class="status-item"><span class="status-key">OUTPUT</span><span class="status-val">RLHF pipelines · live frontier models</span></div>
           <div class="status-item"><span class="status-key">STATUS</span><span class="status-val kiwi">ACTIVE</span></div>
         </div>
       </div>
@@ -978,6 +973,7 @@ footer {
         <span class="trans-num">⟨ 02 ⟩</span>
         <span class="trans-title">LaptopPulse</span>
         <span class="trans-tag">INDIE · PYTHON · WINDOWS · JUN 2026</span>
+        <span class="trans-arrow">▸</span>
       </div>
       <div class="trans-body">
         <div class="trans-label">// PROBLEM</div>
@@ -1001,6 +997,7 @@ footer {
         <span class="trans-num">⟨ 03 ⟩</span>
         <span class="trans-title">AI Resume Copilot</span>
         <span class="trans-tag">TOOL · HTML/JS + CLAUDE API · 2026</span>
+        <span class="trans-arrow">▸</span>
       </div>
       <div class="trans-body">
         <div class="trans-label">// BUILT</div>
@@ -1033,8 +1030,7 @@ footer {
           <span class="stag">FAISS</span><span class="stag">Chroma</span><span class="stag">OpenAI API</span>
           <span class="stag">Anthropic API</span><span class="stag">HuggingFace</span>
           <span class="stag">RLHF Pipelines</span><span class="stag">Adversarial Testing</span>
-          <span class="stag">Benchmark Architecture</span><span class="stag">Synthetic Dataset Design</span>
-          <span class="stag">LLM Evaluation</span><span class="stag">Prompt Engineering</span>
+          <span class="stag">Stable Diffusion</span><span class="stag">Prompt Engineering</span>
         </div>
       </div>
       <div class="stack-block">
@@ -1134,7 +1130,6 @@ footer {
     <div class="section-label">[ SECTOR 07 ]</div>
     <div class="section-title">SIGNAL METRICS</div>
 
-    <!-- stats + top langs -->
     <div class="metrics-grid">
       <div class="metric-img">
         <img src="https://github-readme-stats.vercel.app/api?username=DEVsaurabhgaur&show_icons=true&bg_color=040800&border_color=3A5200&title_color=CCFF00&icon_color=88BB00&text_color=7A9A60&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
@@ -1144,12 +1139,10 @@ footer {
       </div>
     </div>
 
-    <!-- streak -->
     <div class="metric-full" style="margin: 2px 0;">
       <img src="https://streak-stats.demolab.com/?user=DEVsaurabhgaur&background=040800&ring=CCFF00&fire=DFFF00&currStreakLabel=CCFF00&sideLabels=88BB00&currStreakNum=E8FFD0&sideNums=7A9A60&border=3A5200&dates=3A5200" alt="Streak Stats"/>
     </div>
 
-    <!-- ── SNAKE CONTRIBUTION GRID ── -->
     <div class="metric-full" style="margin: 2px 0; padding: 12px 0;">
       <img
         src="https://raw.githubusercontent.com/DEVsaurabhgaur/DEVsaurabhgaur/output/github-contribution-grid-snake-dark.svg"
@@ -1158,12 +1151,10 @@ footer {
       />
     </div>
 
-    <!-- activity graph -->
     <div class="metric-full" style="margin: 2px 0;">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=DEVsaurabhgaur&bg_color=040800&color=88BB00&line=CCFF00&point=DFFF00&area=true&area_color=1A2600&hide_border=false&border_color=3A5200&radius=4" alt="Activity Graph"/>
     </div>
 
-    <!-- trophies -->
     <div class="metric-full" style="margin: 2px 0; padding: 16px;">
       <img src="https://github-profile-trophy.vercel.app/?username=DEVsaurabhgaur&theme=matrix&column=6&margin-w=8&margin-h=8&no-bg=true&no-frame=true" alt="Trophies"/>
     </div>
@@ -1247,13 +1238,6 @@ footer {
   <div class="footer-copy">© 2026 · SAURABH GAUR · ALL TRANSMISSIONS ARCHIVED</div>
 </footer>
 
-<!-- CAPSULE-RENDER FOOTER WAVE -->
-<img 
-  class="capsule-footer" 
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:040800,20:080D00,45:1A2600,70:080D00,100:040800&height=100&section=footer" 
-  alt=""
-/>
-
 <!-- ══════════════════════════════════════════
      SCRIPTS
 ══════════════════════════════════════════ -->
@@ -1308,6 +1292,33 @@ setTimeout(function(){
   const b = document.getElementById('boot');
   if(b) b.style.display = 'none';
 }, 4000);
+
+/* ACCORDION — trans-header click toggles .open on parent .transmission */
+(function(){
+  document.querySelectorAll('.trans-header').forEach(function(h){
+    h.addEventListener('click', function(){
+      h.closest('.transmission').classList.toggle('open');
+    });
+  });
+})();
+
+/* ACTIVE SECTOR TRACKER — updates status bar right-side label on scroll */
+(function(){
+  const sb = document.getElementById('sb-sector');
+  if(!sb) return;
+  const observer = new IntersectionObserver(function(entries){
+    entries.forEach(function(e){
+      if(e.isIntersecting){
+        const lbl = e.target.querySelector('.section-label');
+        if(lbl){
+          const num = lbl.textContent.match(/\d+/);
+          if(num) sb.textContent = 'SECTOR ' + num[0] + ' · ACTIVE';
+        }
+      }
+    });
+  }, { threshold: 0.4 });
+  document.querySelectorAll('.section').forEach(function(s){ observer.observe(s); });
+})();
 </script>
 </body>
 </html>
