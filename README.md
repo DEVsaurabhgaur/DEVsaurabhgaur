@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/SGF--PRIME-INTELLIGENCE%20LAYER-CCFF00?style=for-the-badge&labelColor=000000&color=CCFF00"/>
-<img src="https://img.shields.io/badge/OUTLIER.AI-OPENCLAW%20ATLAS-3A5200?style=for-the-badge&labelColor=000000&color=3A5200"/>
+<img src="https://img.shields.io/badge/AI System Architect%20LAYER-CCFF00?style=for-the-badge&labelColor=000000&color=CCFF00"/>
+<img src="https://img.shields.io/badge/Freelancing@OUTLIER.AI-OPENCLAW%20ATLAS-3A5200?style=for-the-badge&labelColor=000000&color=3A5200"/>
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-CCFF00?style=for-the-badge&labelColor=000000&color=CCFF00"/>
 
 # SAURABH GAUR
