@@ -1,18 +1,5 @@
 <div align="center">
 
-```
-SAURABH-GAUR.WORLD // FIELD STATION PRIME
-──────────────────────────────────────────
-> ESTABLISHING SECURE CONNECTION............
-> AUTHORIZATION CHECK .................. OK
-> IDENTITY VERIFICATION ................ OK
-> INTELLIGENCE LAYER ACCESS ............ GRANTED
-> LOADING DOSSIER :: SAURABH GAUR ........
-> FRONTIER MODEL CLEARANCE ............. ACTIVE
-> SESSION INITIALIZED .................. OK
-> WELCOME, OPERATOR. █
-```
-
 <img src="https://img.shields.io/badge/SGF--PRIME-INTELLIGENCE%20LAYER-CCFF00?style=for-the-badge&labelColor=000000&color=CCFF00"/>
 <img src="https://img.shields.io/badge/OUTLIER.AI-OPENCLAW%20ATLAS-3A5200?style=for-the-badge&labelColor=000000&color=3A5200"/>
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-CCFF00?style=for-the-badge&labelColor=000000&color=CCFF00"/>
@@ -49,8 +36,6 @@ SAURABH-GAUR.WORLD // FIELD STATION PRIME
 ```
 
 | KEY | VALUE |
-|:---:|:---|
-| **alias** | `ITACHI` |
 | **domain** | Frontier AI Evaluation · Agentic Systems Architecture |
 | **base** | Rudrapur, India ∷ remote-first · timezone-flexible |
 | **active** | `Frontier LLM Eval @ Outlier.ai [ OpenClaw Atlas · present ]` |
