@@ -4,7 +4,7 @@
 <!--                     FUTURISTIC HEADER BANNER                   -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=090D16&height=180&text=SAURABH%20GAUR&fontColor=9DFF00&fontSize=52&fontAlignY=45&desc=AI%20ARCHITECT%20%E2%80%A2%20AGENTIC%20SYSTEMS%20%E2%80%A2%20PRODUCT%20BUILDER&descAlignY=70&descSize=12&descColor=8EE53F&stroke=9DFF00&strokeWidth=1.5&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=090D16&height=180&text=SAURABH%20GAUR&fontColor=9DFF00&fontSize=54&fontAlignY=45&desc=AI%20ENGINEER%20%E2%80%A2%20AGENTIC%20ARCHITECT%20%E2%80%A2%20PRODUCT%20BUILDER&descAlignY=70&descSize=11&descColor=8EE53F&stroke=9DFF00&strokeWidth=1" width="100%"/>
 
 <!-- Interactive Boot Protocol -->
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2000&pause=500&color=9DFF00&background=00000000&center=true&vCenter=true&width=800&height=35&lines=%E2%96%B6%20SYSTEM%20BOOT%20::%20AI%20Engineer%20Online;%E2%96%B6%20PROTOCOL%20::%20LangGraph%20Multi-Agent%20Pipeline%20%5BACTIVE%5D;%E2%96%B6%20DEPLOY%20::%20HireOS%20Resume%20Intelligence%20%5BLIVE%5D;%E2%96%B6%20FOCUS%20::%20Define%20criteria%20first.%20Build%20second.%20Ship%20always." alt="terminal"/>
@@ -29,12 +29,20 @@
 
 ---
 
-### ✦ SYSTEM LOGS // WHOAMI
+### ✦ CORE INTERFACE // SYSTEM OVERRIDE
 ```yaml
+# =========================================================================================
+#  ██████╗  █████╗  ██╗   ██╗ ██████╗  █████╗  ██████╗  ██╗  ██╗     ██████╗  █████╗  ██╗   ██╗ ██████╗
+# ██╔════╝ ██╔══██╗ ██║   ██║ ██╔══██╗██╔══██╗ ██╔══██╗ ██║  ██║    ██╔════╝ ██╔══██╗ ██║   ██║ ██╔══██╗
+# ╚█████╗  ███████║ ██║   ██║ ██████╔╝███████║ ██████╔╝ ███████║    ██║  ███╗███████║ ██║   ██║ ██████╔╝
+#  ╚═══██╗ ██╔══██║ ██║   ██║ ██╔══██╗██╔══██║ ██╔══██╗ ██╔══██║    ██║   ██║ ██╔══██║ ██║   ██║ ██╔══██╗
+# ██████╔╝ ██║  ██║ ╚██████╔╝ ██║  ██║██║  ██║ ██████╔╝ ██║  ██║    ╚██████╔╝ ██║  ██║ ╚██████╔╝ ██║  ██║
+# ╚═════╝  ╚═╝  ╚═╝  ╚═════╝  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═╝  ╚═╝     ╚═════╝  ╚═╝  ╚═╝  ╚═════╝  ╚═╝  ╚═╝
+# =========================================================================================
 Host: saurabhgaur.world
 Engine: Python × LangGraph × Gemini 2.0 Flash
-Core Philosophy: "One level above standard implementation."
-Current Status: Shipped 4 core AI platforms end-to-end.
+Philosophy: "One level above standard implementation."
+Status: Shipped 4 core AI platforms end-to-end.
 ```
 
 ---
@@ -106,12 +114,28 @@ Translating AI capabilities to user value. Certified AI PM (Microsoft, Jun 2026)
 
 ---
 
-### ✦ TELEMETRY // STATS
+### ✦ TELEMETRY // STATS & GRAPHS
 
 <div align="center">
 
+<!-- GitHub Stats -->
 <img height="155" src="https://github-readme-stats.vercel.app/api?username=DEVsaurabhgaur&show_icons=true&theme=transparent&hide_border=true&title_color=9DFF00&text_color=A8B2C1&icon_color=8EE53F&bg_color=090D16&ring_color=9DFF00" />
 <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVsaurabhgaur&layout=compact&theme=transparent&hide_border=true&title_color=9DFF00&text_color=A8B2C1&bg_color=090D16" />
+
+<br/><br/>
+
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=DEVsaurabhgaur&theme=dark&hide_border=true&background=090D16&ring=9DFF00&fire=8EE53F&currStreakLabel=9DFF00&sideNums=8EE53F&currStreakNum=9DFF00&sideLabels=A8B2C1&dates=A8B2C1" height="150" width="100%"/>
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DEVsaurabhgaur&bg_color=090D16&color=8EE53F&line=9DFF00&point=9DFF00&area=true&area_color=0B1220&hide_border=false&border_color=9DFF00&radius=6" width="100%"/>
+
+<br/><br/>
+
+<!-- contribution snake animation -->
+<img src="https://raw.githubusercontent.com/DEVsaurabhgaur/DEVsaurabhgaur/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
