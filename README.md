@@ -124,13 +124,13 @@ Translating frontier AI capabilities into sleek user-facing products. Certified 
 <div align="center">
 
 <!-- GitHub Stats & Top Languages -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DEVsaurabhgaur&show_icons=true&theme=transparent&hide_border=true&title_color=9DFF00&text_color=A8B2C1&icon_color=8EE53F&bg_color=090D16&ring_color=9DFF00" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVsaurabhgaur&layout=compact&theme=transparent&hide_border=true&title_color=9DFF00&text_color=A8B2C1&bg_color=090D16" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DEVsaurabhgaur&show_icons=true&theme=dark&hide_border=true&title_color=9DFF00&text_color=A8B2C1&icon_color=8EE53F&bg_color=090D16&ring_color=9DFF00" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVsaurabhgaur&layout=compact&theme=dark&hide_border=true&title_color=9DFF00&text_color=A8B2C1&bg_color=090D16" />
 
 <br/><br/>
 
 <!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=DEVsaurabhgaur&theme=dark&hide_border=true&background=090D16&ring=9DFF00&fire=8EE53F&currStreakLabel=9DFF00&sideNums=8EE53F&currStreakNum=9DFF00&sideLabels=A8B2C1&dates=A8B2C1" height="150" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=DEVsaurabhgaur&theme=dark&hide_border=true&background=090D16&ring=9DFF00&fire=8EE53F&currStreakLabel=9DFF00&sideNums=8EE53F&currStreakNum=9DFF00&sideLabels=A8B2C1&dates=A8B2C1" height="150" width="100%"/>
 
 <br/><br/>
 
