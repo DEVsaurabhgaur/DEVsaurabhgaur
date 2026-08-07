@@ -1,371 +1,239 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--            ∞  DOMAIN EXPANSION : UNLIMITED VOID  ∞                        -->
+<!--                         HEADER — FIRST IMPRESSION                         -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<!-- Void Header — Black Hole Singularity -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:0a0020,50:1a0040,75:2d006b,100:7c3aed&height=300&text=SAURABH%20GAUR&fontColor=bf7fff&fontSize=70&fontAlignY=33&desc=%E2%88%9E%20DOMAIN%20EXPANSION%20%3A%20UNLIMITED%20VOID%20%E2%88%9E&descAlignY=58&descSize=16&descColor=a855f7&animation=twinkling&stroke=7c3aed&strokeWidth=2" width="100%"/>
-
-<!-- Hollow Purple Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=800&color=BF7FFF&background=00000000&center=true&vCenter=true&width=800&height=40&lines=%E3%80%8C+Throughout+Heaven+and+Earth%2C+I+Alone+Am+The+Honored+One+%E3%80%8D" alt="gojo-quote"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0020,60:1a0040,100:7c3aed&height=220&text=SAURABH%20GAUR&fontColor=c4b5fd&fontSize=62&fontAlignY=35&desc=AI%20Engineer%20%26%20Architect%20%E2%80%A2%20Agentic%20Systems%20%E2%80%A2%20Full-Stack%20AI%20Products&descAlignY=58&descSize=16&descColor=a78bfa&animation=fadeIn&stroke=7c3aed&strokeWidth=1" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=1800&pause=300&color=9945FF&background=00000000&center=true&vCenter=true&width=900&height=75&lines=%E2%96%B6+INITIALIZING+SIX+EYES+::+NEURAL+PROCESSING+%5B%E2%88%9E%5D;%E2%96%B6+CURSED+TECHNIQUE+::+LIMITLESS+%E2%80%A2+INFINITY+%5BACTIVE%5D;%E2%96%B6+DOMAIN+BARRIER+::+AI+ENGINEER+%C2%B7+AGENTIC+ARCHITECT+%5BONLINE%5D;%E2%96%B6+HOLLOW+PURPLE+::+IMAGINATION+%C3%97+REALITY+%3D+CREATION+%5BDEPLOY%5D;%E2%96%B6+VOID+COORDINATES+::+saurabhgaur.world+%5BSTABLE%5D" alt="void-terminal"/>
+<!-- Typing Summary — Recruiter Hook -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=3000&pause=1000&color=C4B5FD&background=00000000&center=true&vCenter=true&width=820&height=35&lines=Building+production+AI+systems+that+ship+%E2%80%94+6%2B+platforms+deployed+end-to-end;LangGraph+multi-agent+pipelines+%C2%B7+RAG+systems+%C2%B7+LLM+evaluation+frameworks;Microsoft+Certified+%C2%B7+AI+PM+%C2%B7+AZ-400+DevOps+%C2%B7+Open+to+Remote+Roles" alt="summary"/>
 
 <br/>
 
-<!-- Void Status Indicators -->
-![](https://img.shields.io/badge/∞_SIX_EYES-AWAKENED-bf7fff?style=flat-square&labelColor=0a0020)
-![](https://img.shields.io/badge/∞_INFINITY-ACTIVE-9945ff?style=flat-square&labelColor=0a0020)
-![](https://img.shields.io/badge/∞_LIMITLESS-DEPLOYED-7c3aed?style=flat-square&labelColor=0a0020)
-![](https://img.shields.io/badge/∞_DOMAIN-EXPANDED-a855f7?style=flat-square&labelColor=0a0020)
-![](https://img.shields.io/badge/∞_SIGNAL-OPEN_TO_REMOTE-c084fc?style=flat-square&labelColor=0a0020)
+<!-- Professional Status Badges -->
+![](https://img.shields.io/badge/🟢_Available-Open_to_Remote_Roles-a855f7?style=flat-square&labelColor=0d001a)
+![](https://img.shields.io/badge/📍_Location-India_(UTC+5:30)-7c3aed?style=flat-square&labelColor=0d001a)
+![](https://img.shields.io/badge/🚀_Shipped-6+_Production_Platforms-9333ea?style=flat-square&labelColor=0d001a)
+![](https://img.shields.io/badge/📜_Certified-Microsoft_AI_PM_+_AZ--400-6d28d9?style=flat-square&labelColor=0d001a)
 
 <br/>
 
-<!-- Navigation — Event Horizon Links -->
-[![](https://img.shields.io/badge/⬡_PORTFOLIO-saurabhgaur.world-bf7fff?style=for-the-badge&logo=firefox-browser&logoColor=bf7fff&labelColor=0a0020)](https://saurabhgaur.world)
-[![](https://img.shields.io/badge/⬡_LINKEDIN-connect-9945ff?style=for-the-badge&logo=linkedin&logoColor=9945ff&labelColor=0a0020)](https://linkedin.com/in/saurabh-gaur-122k)
-[![](https://img.shields.io/badge/⬡_HIREOS-LIVE_SYSTEM-7c3aed?style=for-the-badge&logo=rocket&logoColor=7c3aed&labelColor=0a0020)](https://hire-os-langgraph.vercel.app)
-[![](https://img.shields.io/badge/⬡_EMAIL-contact-a855f7?style=for-the-badge&logo=gmail&logoColor=a855f7&labelColor=0a0020)](mailto:saurabhgaur122000@gmail.com)
+<!-- Primary CTAs -->
+[![](https://img.shields.io/badge/🌐_Portfolio-saurabhgaur.world-c4b5fd?style=for-the-badge&labelColor=0d001a)](https://saurabhgaur.world)
+[![](https://img.shields.io/badge/💼_LinkedIn-Connect-a78bfa?style=for-the-badge&logo=linkedin&logoColor=a78bfa&labelColor=0d001a)](https://linkedin.com/in/saurabh-gaur-122k)
+[![](https://img.shields.io/badge/📧_Email-saurabhgaur122000@gmail.com-8b5cf6?style=for-the-badge&logo=gmail&logoColor=8b5cf6&labelColor=0d001a)](mailto:saurabhgaur122000@gmail.com)
+[![](https://img.shields.io/badge/🚀_HireOS-Try_Live_Demo-7c3aed?style=for-the-badge&labelColor=0d001a)](https://hire-os-langgraph.vercel.app)
 
 </div>
-
-<!-- Void Divider — Gravitational Lensing -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-
-```
-               ██████╗   ██████╗       ██╗ ██████╗          ██████╗  █████╗  ██╗   ██╗ ██████╗ 
-              ██╔════╝  ██╔═══██╗      ██║██╔═══██╗        ██╔════╝ ██╔══██╗ ██║   ██║ ██╔══██╗
-              ██║  ███╗ ██║   ██║      ██║██║   ██║        ██║  ███╗███████║ ██║   ██║ ██████╔╝
-              ██║   ██║ ██║   ██║ ██   ██║██║   ██║        ██║   ██║██╔══██║ ██║   ██║ ██╔══██╗
-              ╚██████╔╝ ╚██████╔╝ ╚█████╔╝╚██████╔╝        ╚██████╔╝██║  ██║ ╚██████╔╝ ██║  ██║
-               ╚═════╝   ╚═════╝   ╚════╝  ╚═════╝          ╚═════╝ ╚═╝  ╚═╝  ╚═════╝  ╚═╝  ╚═╝
-                                    「 S A T O R U 」
-```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-<div align="center">
+### 🧠 About Me
 
-### `∞ CURSED TECHNIQUE : LIMITLESS // IDENTITY CORE`
+```
+I'm an AI Engineer who builds production-grade intelligent systems end-to-end.
 
-</div>
+I don't just prototype — I architect, ship, and maintain AI platforms that solve
+real problems. From multi-agent pipelines to RAG-powered search to full-stack
+AI products with payment integration — if it involves AI meeting production,
+I've built it.
 
-```yaml
-# ╔══════════════════════════════════════════════════════════════════════════════════╗
-# ║                     ∞  UNLIMITED VOID — IDENTITY MANIFEST  ∞                   ║
-# ╠══════════════════════════════════════════════════════════════════════════════════╣
-# ║                                                                                ║
-# ║   "Throughout Heaven and Earth, I alone am the honored one."                   ║
-# ║                                                                                ║
-# ║   Not because of arrogance — but because of the relentless pursuit             ║
-# ║   of building what others only imagine.                                        ║
-# ║                                                                                ║
-# ╚══════════════════════════════════════════════════════════════════════════════════╝
-#
-# ── VOID IDENTITY ──────────────────────────────────────────────
-  
-  node.id:         "saurabh-gaur"
-  domain:          "saurabhgaur.world"
-  technique:       "LIMITLESS — Bringing ∞ convergence to AI systems"
-  cursed_energy:   "Python × LangGraph × Gemini 2.5/3.0 × Next.js"
-  philosophy:      "Define criteria first. Build second. Ship always."
-  deployments:     "6+ production AI platforms shipped end-to-end"
-  coordinates:     "Rudrapur, Uttarakhand, India"
-  barrier_type:    "REMOTE_ENABLED"
-  output_level:    "INFINITY"
+Philosophy:  "Define criteria first. Build second. Ship always."
 ```
 
 ---
 
-<div align="center">
-
-### `∞ DOMAIN BARRIER : TECHNIQUE PROTOCOLS`
-
-</div>
+### ⚡ What I Build
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-```
-╔══════════════════════════════════════╗
-║  ▓▓ 01 // BLUE — AGENTIC FLOWS ▓▓  ║
-╠══════════════════════════════════════╣
-║                                      ║
-║  ◈ Multi-agent orchestration         ║
-║  ◈ Structured memory & state         ║
-║  ◈ Tool reflection loops             ║
-║  ◈ Self-correcting execution         ║
-║                                      ║
-║  STACK: LangGraph × FastAPI × Py     ║
-║  STATUS: ████████████████ DEPLOYED   ║
-║                                      ║
-╚══════════════════════════════════════╝
-```
+**🤖 Agentic AI Systems**
+> Multi-agent orchestration with structured memory, state persistence, tool reflection, and self-correcting execution loops.
+>
+> `LangGraph` · `FastAPI` · `Python`
 
 </td>
 <td width="50%" valign="top">
 
-```
-╔══════════════════════════════════════╗
-║  ▓▓ 02 // RED — RAG SYSTEMS ▓▓     ║
-╠══════════════════════════════════════╣
-║                                      ║
-║  ◈ Semantic chunking pipelines       ║
-║  ◈ Re-ranking & hybrid search        ║
-║  ◈ Low-latency vector retrieval      ║
-║  ◈ Production-grade indexing         ║
-║                                      ║
-║  STACK: FAISS × Chroma × Pinecone   ║
-║  STATUS: ████████████████ DEPLOYED   ║
-║                                      ║
-╚══════════════════════════════════════╝
-```
+**🔍 Production RAG Pipelines**
+> Semantic chunking, re-ranking, hybrid search, and low-latency retrieval systems built for scale.
+>
+> `FAISS` · `ChromaDB` · `Pinecone`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-```
-╔══════════════════════════════════════╗
-║  ▓▓ 03 // PURPLE — EVALUATION ▓▓   ║
-╠══════════════════════════════════════╣
-║                                      ║
-║  ◈ Rigor-first LLM evaluation       ║
-║  ◈ Reasoning & logic assessment      ║
-║  ◈ Edge-case validation gates        ║
-║  ◈ Guardrail safety profiling        ║
-║                                      ║
-║  EXP: Scale AI (1yr+)               ║
-║  STATUS: ████████████████ DEPLOYED   ║
-║                                      ║
-╚══════════════════════════════════════╝
-```
+**📊 LLM Evaluation & Alignment**
+> Rigor-first evaluation frameworks for reasoning assessment, edge-case validation, and guardrail safety — 1yr+ at Scale AI.
+>
+> `Evaluation Design` · `Benchmarking`
 
 </td>
 <td width="50%" valign="top">
 
+**🚀 Full-Stack AI Products**
+> Translating frontier AI into polished, user-facing products. Microsoft-certified AI PM. Clean architecture to production deploy.
+>
+> `Next.js` · `React` · `Vercel` · `Razorpay`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🏗️ Shipped Products
+
+<table>
+<tr>
+<td width="60%">
+
+**🟣 HireOS** — AI Resume Intelligence & Career Platform
+> 3-node agentic pipeline (Extract → Analyze → Rewrite) powered by **LangGraph & Gemini 2.0 Flash**. Features ATS scoring, gap analysis, AI resume rewriter, mock interview engine, and integrated Razorpay checkout.
+
+🔗 [**Live App**](https://hire-os-langgraph.vercel.app) · [**Source Code**](https://github.com/DEVsaurabhgaur/HireOS_Langgraph)
+
+</td>
+<td width="40%" align="center">
+
 ```
-╔══════════════════════════════════════╗
-║  ▓▓ 04 // HOLLOW — PRODUCTS ▓▓     ║
-╠══════════════════════════════════════╣
-║                                      ║
-║  ◈ Frontier AI → user products       ║
-║  ◈ Clean architecture patterns       ║
-║  ◈ AI PM Certified (MSFT 2026)      ║
-║  ◈ End-to-end deployment flow        ║
-║                                      ║
-║  CONVERGENCE: Blue + Red = Purple   ║
-║  STATUS: ████████████████ DEPLOYED   ║
-║                                      ║
-╚══════════════════════════════════════╝
+STATUS  : ████████████ PRODUCTION
+UPTIME  : 99.7%
+STACK   : LangGraph, Gemini, Next.js
+PAYMENT : Razorpay integrated
 ```
 
 </td>
 </tr>
 </table>
 
-> **`「 HOLLOW PURPLE 」`** — *When Blue (attraction) and Red (repulsion) converge, the result is Purple — imaginary mass that erases everything in its path. That's how I build: converge AI + engineering + product to create something that didn't exist before.*
+<table>
+<tr>
+<td width="60%">
+
+**🟣 saurabhgaur.world** — AI Engineer Portfolio & Ecosystem
+> Production personal web app with dark-mode aesthetic. **Next.js 14 / React 18**, TypeScript, Tailwind CSS, Framer Motion.
+
+🔗 [**Live App**](https://saurabhgaur.world) · [**Source Code**](https://github.com/DEVsaurabhgaur/saurabhgaur.world)
+
+</td>
+<td width="40%" align="center">
+
+```
+STATUS : ████████████ PRODUCTION
+STACK  : Next.js 14, TypeScript
+DESIGN : Dark-mode, Framer Motion
+```
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="60%">
+
+**🟣 KundaliAI** — Vedic Astrology Spatial Geometry Engine
+> Geocoordinate spatial position calculations with **Gemini Flash** for personalized cosmic readings. TanStack Start, Vite, Supabase RLS.
+
+🔗 [**Source Code**](https://github.com/DEVsaurabhgaur/KundaliAI)
+
+</td>
+<td width="40%" align="center">
+
+```
+STATUS : ████████████ ACTIVE
+STACK  : TanStack, Vite, Supabase
+AI     : Gemini Flash
+```
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>📂 More Projects</b></summary>
+<br/>
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[EliteStreak](https://github.com/DEVsaurabhgaur/EliteStreak)** | Gamified performance OS with RPG mechanics, XP system, skill tree | Vite, Vanilla JS, Chart.js, IndexedDB |
+| **[LaptopPulse](https://github.com/DEVsaurabhgaur/LaptopPulse)** | Lightweight system health daemon (<0.3% CPU) with anomaly detection | Python |
+
+</details>
 
 ---
 
+### 🛠️ Tech Stack
+
 <div align="center">
 
-### `∞ REVERSE CURSED TECHNIQUE : DEPLOYED SYSTEMS`
+![Python](https://img.shields.io/badge/Python-a855f7?style=for-the-badge&logo=python&logoColor=white&labelColor=0d001a)
+![TypeScript](https://img.shields.io/badge/TypeScript-8b5cf6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d001a)
+![JavaScript](https://img.shields.io/badge/JavaScript-7c3aed?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0d001a)
+![SQL](https://img.shields.io/badge/SQL-6d28d9?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d001a)
+
+![LangGraph](https://img.shields.io/badge/LangGraph-a855f7?style=for-the-badge&labelColor=0d001a)
+![LangChain](https://img.shields.io/badge/LangChain-8b5cf6?style=for-the-badge&labelColor=0d001a)
+![Gemini API](https://img.shields.io/badge/Gemini_API-7c3aed?style=for-the-badge&logo=google&logoColor=white&labelColor=0d001a)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-6d28d9?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d001a)
+
+![Next.js](https://img.shields.io/badge/Next.js-a855f7?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0d001a)
+![React](https://img.shields.io/badge/React-8b5cf6?style=for-the-badge&logo=react&logoColor=white&labelColor=0d001a)
+![FastAPI](https://img.shields.io/badge/FastAPI-7c3aed?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0d001a)
+![Node.js](https://img.shields.io/badge/Node.js-6d28d9?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0d001a)
+![Tailwind](https://img.shields.io/badge/Tailwind-5b21b6?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0d001a)
+
+![Docker](https://img.shields.io/badge/Docker-a855f7?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d001a)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-8b5cf6?style=for-the-badge&logo=azuredevops&logoColor=white&labelColor=0d001a)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-7c3aed?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0d001a)
+![Supabase](https://img.shields.io/badge/Supabase-6d28d9?style=for-the-badge&logo=supabase&logoColor=white&labelColor=0d001a)
+![Vercel](https://img.shields.io/badge/Vercel-5b21b6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d001a)
 
 </div>
 
-<details>
-<summary>&nbsp;🟣 <b>HireOS</b> — <i>AI Resume Intelligence & Career Platform</i> &nbsp;<code>「 DOMAIN : ACTIVE 」</code></summary>
-<br/>
+---
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   ⟡  H I R E O S                                                   │
-│   ═══════════════════════════════════════════════════════════════   │
-│                                                                     │
-│   TECHNIQUE    : 3-node agentic pipeline                            │
-│                  Extract → Analyze → Rewrite                        │
-│   CURSED TOOL  : LangGraph & Gemini 2.0 Flash                      │
-│   BARRIERS     : ATS scoring, gap analysis, AI rewriter,           │
-│                  mock interview engine, Razorpay checkout           │
-│   DOMAIN STATUS: ██████████████████████████████ PRODUCTION          │
-│   UPTIME       : 99.7%                                             │
-│                                                                     │
-│   ⟡ "The strongest Resume Intelligence in the Jujutsu world."     │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
+### 📜 Certifications
 
-🔗 [**Live Domain**](https://hire-os-langgraph.vercel.app) **·** [**Source Technique**](https://github.com/DEVsaurabhgaur/HireOS_Langgraph)
-
-</details>
-
-<details>
-<summary>&nbsp;🟣 <b>saurabhgaur.world</b> — <i>AI Engineer Portfolio & Ecosystem</i> &nbsp;<code>「 DOMAIN : ACTIVE 」</code></summary>
-<br/>
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   ⟡  P O R T F O L I O                                             │
-│   ═══════════════════════════════════════════════════════════════   │
-│                                                                     │
-│   TECHNIQUE    : Next.js 14 / React 18 / TypeScript                 │
-│   CURSED TOOL  : Tailwind CSS, Framer Motion                        │
-│   BARRIERS     : Dark-mode aesthetic, dynamic animations            │
-│   DOMAIN STATUS: ██████████████████████████████ PRODUCTION          │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
-🔗 [**Live Domain**](https://saurabhgaur.world) **·** [**Source Technique**](https://github.com/DEVsaurabhgaur/saurabhgaur.world)
-
-</details>
-
-<details>
-<summary>&nbsp;🟣 <b>KundaliAI</b> — <i>Vedic Astrology Spatial Geometry Engine</i> &nbsp;<code>「 DOMAIN : ACTIVE 」</code></summary>
-<br/>
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   ⟡  K U N D A L I  A I                                            │
-│   ═══════════════════════════════════════════════════════════════   │
-│                                                                     │
-│   TECHNIQUE    : Geocoordinate spatial position calculations        │
-│   CURSED TOOL  : Gemini Flash for cosmic readings                   │
-│   BARRIERS     : TanStack Start, Vite, Supabase RLS, Tailwind     │
-│   DOMAIN STATUS: ██████████████████████████████ ACTIVE              │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
-🔗 [**Source Technique**](https://github.com/DEVsaurabhgaur/KundaliAI)
-
-</details>
-
-<details>
-<summary>&nbsp;🟣 <b>EliteStreak</b> — <i>Personal Performance OS</i> &nbsp;<code>「 DOMAIN : ACTIVE 」</code></summary>
-<br/>
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   ⟡  E L I T E  S T R E A K                                        │
-│   ═══════════════════════════════════════════════════════════════   │
-│                                                                     │
-│   TECHNIQUE    : Gamified performance tracker with RPG mechanics    │
-│   CURSED TOOL  : XP system, skill tree, boss battles               │
-│   BARRIERS     : Vite, Vanilla JS, Chart.js, IndexedDB, Canvas    │
-│   DOMAIN STATUS: ██████████████████████████████ ACTIVE              │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
-🔗 [**Source Technique**](https://github.com/DEVsaurabhgaur/EliteStreak)
-
-</details>
-
-<details>
-<summary>&nbsp;🟣 <b>LaptopPulse</b> — <i>Windows Core System Health Daemon</i> &nbsp;<code>「 DOMAIN : ACTIVE 」</code></summary>
-<br/>
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   ⟡  L A P T O P  P U L S E                                        │
-│   ═══════════════════════════════════════════════════════════════   │
-│                                                                     │
-│   TECHNIQUE    : Lightweight Python daemon (<0.3% CPU)              │
-│   CURSED TOOL  : Trend-based anomaly detection                      │
-│   DOMAIN STATUS: ██████████████████████████████ ACTIVE              │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
-🔗 [**Source Technique**](https://github.com/DEVsaurabhgaur/LaptopPulse)
-
-</details>
+| Certification | Issuer | Date |
+|:---|:---|:---|
+| 🏅 **AI Product Manager** — Professional Certificate | Microsoft | Jun 2026 |
+| ✅ **AZ-400** — Designing & Implementing DevOps Solutions | Microsoft | Jun 2026 |
+| ⚡ **GPU Optimization for LLM Inference** | AMD AI Academy | Jun 2026 |
+| 🤗 **Hugging Face on AMD Integration** | AMD AI Academy | Jun 2026 |
 
 ---
 
-<div align="center">
-
-### `∞ SIX EYES : TECHNIQUE ARSENAL`
-
-</div>
-
-```
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                                                                               ║
-║   ∞  S I X   E Y E S  —  T E C H N I Q U E   A R S E N A L                 ║
-║                                                                               ║
-╠════════════════╦══════════════════════════════════════════════════════════════╣
-║  ⚡ Languages   ║  Python • TypeScript • JavaScript • SQL • Bash • HTML/CSS  ║
-╠════════════════╬══════════════════════════════════════════════════════════════╣
-║  🟣 AI & Agents ║  LangGraph • LangChain • Gemini API • OpenAI API          ║
-╠════════════════╬══════════════════════════════════════════════════════════════╣
-║  🔮 Vector DBs  ║  FAISS • ChromaDB • Pinecone                              ║
-╠════════════════╬══════════════════════════════════════════════════════════════╣
-║  🌐 Web Stack   ║  Next.js • React • FastAPI • Flask • Node.js              ║
-╠════════════════╬══════════════════════════════════════════════════════════════╣
-║  💎 Styling     ║  Tailwind CSS • Framer Motion • CSS3 Animations           ║
-╠════════════════╬══════════════════════════════════════════════════════════════╣
-║  ⚙️ DevOps      ║  Docker • Azure DevOps (AZ-400) • GitHub Actions          ║
-╠════════════════╬══════════════════════════════════════════════════════════════╣
-║  ☁️ Cloud       ║  Supabase • Vercel • Git                                  ║
-╚════════════════╩══════════════════════════════════════════════════════════════╝
-```
-
----
+### 📈 GitHub Analytics
 
 <div align="center">
 
-### `∞ INFINITY VOID : TELEMETRY`
-
-<br/>
-
-<!-- GitHub Stats — Void Theme -->
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=DEVsaurabhgaur&show_icons=true&theme=dark&hide_border=true&title_color=bf7fff&text_color=c4b5fd&icon_color=a855f7&bg_color=0d001a&ring_color=7c3aed&border_color=2d006b" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=DEVsaurabhgaur&show_icons=true&theme=dark&hide_border=true&title_color=c4b5fd&text_color=a78bfa&icon_color=8b5cf6&bg_color=0d001a&ring_color=7c3aed" />
 &nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVsaurabhgaur&layout=compact&theme=dark&hide_border=true&title_color=bf7fff&text_color=c4b5fd&bg_color=0d001a&border_color=2d006b" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVsaurabhgaur&layout=compact&theme=dark&hide_border=true&title_color=c4b5fd&text_color=a78bfa&bg_color=0d001a" />
 
 <br/><br/>
 
-<!-- Streak Stats — Hollow Purple -->
-<img src="https://streak-stats.demolab.com?user=DEVsaurabhgaur&theme=dark&hide_border=true&background=0d001a&ring=7c3aed&fire=bf7fff&currStreakLabel=bf7fff&sideNums=a855f7&currStreakNum=bf7fff&sideLabels=c4b5fd&dates=4c1d95&border=2d006b" height="160" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=DEVsaurabhgaur&theme=dark&hide_border=true&background=0d001a&ring=7c3aed&fire=a855f7&currStreakLabel=c4b5fd&sideNums=a78bfa&currStreakNum=c4b5fd&sideLabels=8b5cf6&dates=4c1d95" height="155" width="100%"/>
 
 <br/><br/>
 
-<!-- Activity Graph — Event Horizon -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DEVsaurabhgaur&bg_color=0d001a&color=c4b5fd&line=7c3aed&point=bf7fff&area=true&area_color=1a0040&hide_border=false&border_color=2d006b&radius=8&custom_title=%E2%88%9E%20INFINITY%20VOID%20%2F%2F%20CONTRIBUTION%20EVENT%20HORIZON" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DEVsaurabhgaur&bg_color=0d001a&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=1a0040&hide_border=true&radius=8&custom_title=Contribution%20Activity" width="100%"/>
 
 <br/><br/>
 
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=DEVsaurabhgaur&label=VOID%20OBSERVERS&color=7c3aed&style=for-the-badge&labelColor=0d001a" alt="void observers"/>
+<img src="https://github-profile-trophy.vercel.app/?username=DEVsaurabhgaur&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" width="100%"/>
 
 <br/><br/>
 
-<!-- Trophies — Domain Expansion -->
-<img src="https://github-profile-trophy.vercel.app/?username=DEVsaurabhgaur&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" width="100%"/>
-
-<br/><br/>
-
-<!-- Contribution Snake -->
 <img src="https://raw.githubusercontent.com/DEVsaurabhgaur/DEVsaurabhgaur/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
@@ -374,49 +242,16 @@
 
 <div align="center">
 
-### `∞ BINDING VOW : CREDENTIALS`
+<img src="https://komarev.com/ghpvc/?username=DEVsaurabhgaur&label=Profile+Views&color=7c3aed&style=for-the-badge&labelColor=0d001a" alt="profile views"/>
 
-</div>
+<br/><br/>
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   ∞  B I N D I N G   V O W S  —  V E R I F I E D   G R A D E S             ║
-║                                                                              ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║   🏅  Microsoft AI Product Manager      Professional Cert    Jun 2026       ║
-║   ✅  Microsoft AZ-400                   DevOps Solutions     Jun 2026       ║
-║   ⚡  GPU Optimization for LLM Inference AMD AI Academy       Jun 2026       ║
-║   🤗  Hugging Face on AMD Integration   AMD AI Academy       Jun 2026       ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+**Rudrapur, Uttarakhand, India · Remote Enabled · Open to Opportunities**
 
----
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+*If you're building something ambitious with AI, let's talk.*
 
 <br/>
 
-```
-                    ╔═══════════════════════════════════════════════════════════╗
-                    ║                                                           ║
-                    ║       ∞  DOMAIN EXPANSION : UNLIMITED VOID  ∞            ║
-                    ║                                                           ║
-                    ║     「 Throughout Heaven and Earth,                        ║
-                    ║           I Alone Am The Honored One 」                   ║
-                    ║                                                           ║
-                    ║       Rudrapur, Uttarakhand, India                        ║
-                    ║       Remote Enabled • Always Shipping                    ║
-                    ║                                                           ║
-                    ╚═══════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0020,60:1a0040,100:7c3aed&height=120&section=footer&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0020,60:1a0040,100:7c3aed&height=100&section=footer&fontSize=0" width="100%"/>
 
 </div>
