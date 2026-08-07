@@ -4,7 +4,7 @@
 <!--                         HEADER — FIRST IMPRESSION                         -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0020,60:1a0040,100:7c3aed&height=220&text=SAURABH%20GAUR&fontColor=c4b5fd&fontSize=62&fontAlignY=35&desc=AI%20Engineer%20%26%20Architect%20%E2%80%A2%20Agentic%20Systems%20%E2%80%A2%20Full-Stack%20AI%20Products&descAlignY=58&descSize=16&descColor=a78bfa&animation=fadeIn&stroke=7c3aed&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0020,60:1a0040,100:7c3aed&height=220&text=SAURABH%20GAUR&fontColor=c4b5fd&fontSize=62&fontAlignY=35&desc=AI%20Engineer%20and%20Architect%20%E2%80%A2%20Agentic%20Systems%20%E2%80%A2%20Full-Stack%20AI%20Products&descAlignY=58&descSize=16&descColor=a78bfa&animation=fadeIn&stroke=7c3aed&strokeWidth=1" width="100%"/>
 
 <br/>
 
