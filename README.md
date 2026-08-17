@@ -216,9 +216,9 @@ AI     : Gemini Flash
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=DEVsaurabhgaur&show_icons=true&theme=dark&hide_border=true&title_color=c4b5fd&text_color=a78bfa&icon_color=8b5cf6&bg_color=0d001a&ring_color=7c3aed" />
+<img height="175" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DEVsaurabhgaur&show_icons=true&theme=dark&hide_border=true&title_color=c4b5fd&text_color=a78bfa&icon_color=8b5cf6&bg_color=0d001a&ring_color=7c3aed" />
 &nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVsaurabhgaur&layout=compact&theme=dark&hide_border=true&title_color=c4b5fd&text_color=a78bfa&bg_color=0d001a" />
+<img height="175" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DEVsaurabhgaur&layout=compact&theme=dark&hide_border=true&title_color=c4b5fd&text_color=a78bfa&bg_color=0d001a" />
 
 <br/><br/>
 
@@ -230,7 +230,7 @@ AI     : Gemini Flash
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=DEVsaurabhgaur&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DEVsaurabhgaur&theme=github_dark" width="100%"/>
 
 <br/><br/>
 
