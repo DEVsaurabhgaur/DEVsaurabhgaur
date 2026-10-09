@@ -4,84 +4,82 @@
 <!--                         HEADER — FIRST IMPRESSION                         -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0020,60:1a0040,100:7c3aed&height=220&text=SAURABH%20GAUR&fontColor=c4b5fd&fontSize=62&fontAlignY=35&desc=AI%20Engineer%20and%20Architect%20%E2%80%A2%20Agentic%20Systems%20%E2%80%A2%20Full-Stack%20AI%20Products&descAlignY=58&descSize=16&descColor=a78bfa&animation=fadeIn&stroke=7c3aed&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0020,60:1a0040,100:7c3aed&height=220&text=SAURABH%20GAUR&fontColor=c4b5fd&fontSize=58&fontAlignY=35&desc=AI%2FML%20ENGINEER%20%E2%80%A2%20LLM%20EVALUATION%20%26%20RLHF%20%E2%80%A2%20AI%20PRODUCT%20BUILDER&descAlignY=58&descSize=15&descColor=a78bfa&animation=fadeIn&stroke=7c3aed&strokeWidth=1" width="100%"/>
 
 <br/>
 
 <!-- Typing Summary — Recruiter Hook -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=3000&pause=1000&color=C4B5FD&background=00000000&center=true&vCenter=true&width=820&height=35&lines=Building+production+AI+systems+that+ship+%E2%80%94+6%2B+platforms+deployed+end-to-end;LangGraph+multi-agent+pipelines+%C2%B7+RAG+systems+%C2%B7+LLM+evaluation+frameworks;Microsoft+Certified+%C2%B7+AI+PM+%C2%B7+AZ-400+DevOps+%C2%B7+Open+to+Remote+Roles" alt="summary"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=3000&pause=1000&color=C4B5FD&background=00000000&center=true&vCenter=true&width=860&height=35&lines=AI%2FML+Engineer+%C2%B7+LLM+Evaluation+%26+RLHF+Workflows+%C2%B7+AI+Product+Builder;LangGraph+Multi-Agent+Pipelines+%C2%B7+Hybrid+RAG+Systems+%C2%B7+FastAPI;Scored+1%2C000%2B+AI+Code+Outputs+%C2%B7+Scale+AI+%C2%B7+Alignerr+%C2%B7+Handshake;Microsoft+Certified+DevOps+(AZ-400)+%C2%B7+AI+Product+Manager+%C2%B7+Open+to+Remote" alt="summary"/>
 
 <br/>
 
 <!-- Professional Status Badges -->
-![](https://img.shields.io/badge/🟢_Available-Open_to_Remote_Roles-a855f7?style=flat-square&labelColor=0d001a)
-![](https://img.shields.io/badge/📍_Location-India_(UTC+5:30)-7c3aed?style=flat-square&labelColor=0d001a)
-![](https://img.shields.io/badge/🚀_Shipped-6+_Production_Platforms-9333ea?style=flat-square&labelColor=0d001a)
-![](https://img.shields.io/badge/📜_Certified-Microsoft_AI_PM_+_AZ--400-6d28d9?style=flat-square&labelColor=0d001a)
+![](https://img.shields.io/badge/🟢_Status-Open_to_Remote_Roles-a855f7?style=flat-square&labelColor=0d001a)
+![](https://img.shields.io/badge/📍_Location-Rudrapur%2C_Uttarakhand%2C_India-7c3aed?style=flat-square&labelColor=0d001a)
+![](https://img.shields.io/badge/🚀_Shipped-Production_AI_Systems-9333ea?style=flat-square&labelColor=0d001a)
+![](https://img.shields.io/badge/📜_Certified-Microsoft_AZ--400_+_AI_PM-6d28d9?style=flat-square&labelColor=0d001a)
 
 <br/>
 
 <!-- Primary CTAs -->
-[![](https://img.shields.io/badge/🌐_Portfolio-saurabhgaur.world-c4b5fd?style=for-the-badge&labelColor=0d001a)](https://saurabhgaur.world)
-[![](https://img.shields.io/badge/💼_LinkedIn-Connect-a78bfa?style=for-the-badge&logo=linkedin&logoColor=a78bfa&labelColor=0d001a)](https://linkedin.com/in/saurabh-gaur-122k)
-[![](https://img.shields.io/badge/📧_Email-saurabhgaur122000@gmail.com-8b5cf6?style=for-the-badge&logo=gmail&logoColor=8b5cf6&labelColor=0d001a)](mailto:saurabhgaur122000@gmail.com)
+[![](https://img.shields.io/badge/🌐_Portfolio-devsaurabh.in-c4b5fd?style=for-the-badge&labelColor=0d001a)](https://devsaurabh.in)
+[![](https://img.shields.io/badge/💼_LinkedIn-saurabhgaur--122k-a78bfa?style=for-the-badge&logo=linkedin&logoColor=a78bfa&labelColor=0d001a)](https://linkedin.com/in/saurabhgaur-122k)
+[![](https://img.shields.io/badge/📧_Email-saurabhgaur.dev@gmail.com-8b5cf6?style=for-the-badge&logo=gmail&logoColor=8b5cf6&labelColor=0d001a)](mailto:saurabhgaur.dev@gmail.com)
 [![](https://img.shields.io/badge/🚀_HireOS-Try_Live_Demo-7c3aed?style=for-the-badge&labelColor=0d001a)](https://hire-os-langgraph.vercel.app)
 
 </div>
 
 ---
 
-### 🧠 About Me
+### 🧠 Professional Summary
 
 ```
-I'm an AI Engineer who builds production-grade intelligent systems end-to-end.
-
-I don't just prototype — I architect, ship, and maintain AI platforms that solve
-real problems. From multi-agent pipelines to RAG-powered search to full-stack
-AI products with payment integration — if it involves AI meeting production,
-I've built it.
-
-Philosophy:  "Define criteria first. Build second. Ship always."
+AI/ML engineer with hands-on experience in LLM evaluation, RLHF workflows, and end-to-end
+AI product development. Built LangGraph multi-agent systems, RAG pipelines, and FastAPI
+backends, and shipped production AI systems from backend to frontend. Reviewed and scored
+over 1,000 AI-generated code responses for correctness, reasoning quality, and instruction
+adherence.
 ```
 
 ---
 
-### ⚡ What I Build
+### ⚡ Technical Arsenal
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🤖 Agentic AI Systems**
-> Multi-agent orchestration with structured memory, state persistence, tool reflection, and self-correcting execution loops.
->
-> `LangGraph` · `FastAPI` · `Python`
+**🤖 AI & ML Engineering**
+> • **RAG Pipelines & Vector Search:** ChromaDB, vector databases, hybrid search (BM25 + dense vector)
+> • **LLM Evaluation & RLHF:** Factual verification, reasoning chains, rubric scoring, failure taxonomies
+> • **Agentic Orchestration:** LangGraph multi-agent workflows, state persistence, memory, self-correction
+> • **Prompt Engineering:** Few-shot, chain-of-thought, structured output schemas, guardrails
 
 </td>
 <td width="50%" valign="top">
 
-**🔍 Production RAG Pipelines**
-> Semantic chunking, re-ranking, hybrid search, and low-latency retrieval systems built for scale.
->
-> `FAISS` · `ChromaDB` · `Pinecone`
+**💻 Languages & Backend Frameworks**
+> • **Languages:** Python, JavaScript, TypeScript, SQL, C++
+> • **Frameworks:** FastAPI, LangGraph, React, Node.js, Next.js
+> • **Data & Storage:** PostgreSQL, Supabase RLS, SQLite, ChromaDB
+> • **Testing & Architecture:** Pytest, automated test suites, RESTful backend API design
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**📊 LLM Evaluation & Alignment**
-> Rigor-first evaluation frameworks for reasoning assessment, edge-case validation, and guardrail safety — 1yr+ at Scale AI.
->
-> `Evaluation Design` · `Benchmarking`
+**🛠️ DevOps, Cloud & Platforms**
+> • **Containerization & CI/CD:** Docker, Git, GitHub Actions, Microsoft Azure
+> • **Cloud & Edge:** Azure DevOps, Vercel, Supabase Cloud
+> • **Payments & Auth:** Razorpay (UPI, Webhooks, Signature Verification), HMAC authentication
 
 </td>
 <td width="50%" valign="top">
 
-**🚀 Full-Stack AI Products**
-> Translating frontier AI into polished, user-facing products. Microsoft-certified AI PM. Clean architecture to production deploy.
->
-> `Next.js` · `React` · `Vercel` · `Razorpay`
+**🎯 Core Methodologies**
+> • **Model Quality & Alignment:** Red teaming, edge-case generation, RLHF reward modeling data
+> • **Product Architecture:** Full-stack architecture, clean separation of concerns, zero-overhead runtimes
 
 </td>
 </tr>
@@ -89,7 +87,65 @@ Philosophy:  "Define criteria first. Build second. Ship always."
 
 ---
 
-### 🏗️ Shipped Products
+### 💼 Work Experience
+
+<table>
+<tr>
+<td>
+
+#### 🌟 **AI Training and Evaluation Specialist** — *Handshake AI Fellowship*
+`Jun 2026 – Present` · `Remote`
+* Evaluated AI-generated content against defined quality and accuracy criteria, checking factual correctness, reasoning quality, clarity, and instruction following.
+* Delivered structured human feedback that supports model training and evaluation workflows.
+
+</td>
+</tr>
+<tr>
+<td>
+
+#### 🚀 **Independent AI Product Developer** — [*devsaurabh.in*](https://devsaurabh.in)
+`May 2026 – Present` · `Remote`
+* Designed and shipped production AI systems end to end, using Python and FastAPI services with LangGraph agent orchestration, including **HireOS**, which is deployed live.
+* Built React and TypeScript frontends and Docker-based deployments alongside each backend, owning the full stack from system architecture to release.
+
+</td>
+</tr>
+<tr>
+<td>
+
+#### 🧠 **AI LLM Evaluator** — *Alignerr*
+`Apr 2026 – Present` · `Remote`
+* Evaluated AI responses against task-specific quality, accuracy, and reasoning criteria, flagging factual errors, logical inconsistencies, and hallucinations in model outputs.
+* Applied technical reasoning to complex evaluation tasks, keeping judgments consistent across project guidelines.
+
+</td>
+</tr>
+<tr>
+<td>
+
+#### 🔬 **AI Code and Reasoning Evaluator** — *Scale AI*
+`May 2025 – May 2026` · `Remote`
+* Reviewed and scored over 1,000 AI-generated code responses in Python, React, and SQL against rubrics for correctness, efficiency, readability, and instruction adherence.
+* Identified systematic failure patterns in LLM code generation and reasoning chains, and fed structured feedback into RLHF training pipelines.
+* Evaluated outputs across coding assistants, conversational AI, and content generation projects, including OpenClaw Atlas, Meter Pavilion, Mariachi Union, and Astro Chat.
+
+</td>
+</tr>
+<tr>
+<td>
+
+#### ⚙️ **QA/QC Engineer** — *Interarch Building Products Ltd*
+`Oct 2020 – Mar 2021` · `On-site`
+* Led a team of 20 on daily production quality control, running structured audits that cut defects and customer complaints.
+* Applied structured defect analysis in audits, a method later carried into AI output evaluation work.
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🏗️ Featured Projects
 
 <table>
 <tr>
@@ -98,16 +154,16 @@ Philosophy:  "Define criteria first. Build second. Ship always."
 **🟣 HireOS** — AI Resume Intelligence & Career Platform
 > 3-node agentic pipeline (Extract → Analyze → Rewrite) powered by **LangGraph & Gemini 2.0 Flash**. Features ATS scoring, gap analysis, AI resume rewriter, mock interview engine, and integrated Razorpay checkout.
 
-🔗 [**Live App**](https://hire-os-langgraph.vercel.app) · [**Source Code**](https://github.com/DEVsaurabhgaur/HireOS_Langgraph)
+🔗 [**Live Demo**](https://hire-os-langgraph.vercel.app) · [**Source Code**](https://github.com/DEVsaurabhgaur/HireOS_Langgraph)
 
 </td>
 <td width="40%" align="center">
 
 ```
-STATUS  : ████████████ PRODUCTION
-UPTIME  : 99.7%
-STACK   : LangGraph, Gemini, Next.js
-PAYMENT : Razorpay integrated
+STATUS  : PRODUCTION
+UPTIME  : 99.8%
+STACK   : LangGraph, Gemini, FastAPI
+PAYMENT : Razorpay Live Checkout
 ```
 
 </td>
@@ -118,18 +174,19 @@ PAYMENT : Razorpay integrated
 <tr>
 <td width="60%">
 
-**🟣 saurabhgaur.world** — AI Engineer Portfolio & Ecosystem
-> Production personal web app with dark-mode aesthetic. **Next.js 14 / React 18**, TypeScript, Tailwind CSS, Framer Motion.
+**🟣 RAGForge** — Enterprise Hybrid Search & Retrieval Pipeline
+> High-throughput hybrid retrieval pipeline combining **BM25 lexical search** and dense vector embeddings using **ChromaDB**. Fully verified with automated Pytest suites and containerized with Docker.
 
-🔗 [**Live App**](https://saurabhgaur.world) · [**Source Code**](https://github.com/DEVsaurabhgaur/saurabhgaur.world)
+🔗 [**Source Code**](https://github.com/DEVsaurabhgaur/ragforge)
 
 </td>
 <td width="40%" align="center">
 
 ```
-STATUS : ████████████ PRODUCTION
-STACK  : Next.js 14, TypeScript
-DESIGN : Dark-mode, Framer Motion
+STATUS  : ACTIVE ENGINE
+SEARCH  : Hybrid BM25 + Vector
+DB      : ChromaDB
+TESTS   : Automated Pytest Suite
 ```
 
 </td>
@@ -140,79 +197,96 @@ DESIGN : Dark-mode, Framer Motion
 <tr>
 <td width="60%">
 
-**🟣 KundaliAI** — Vedic Astrology Spatial Geometry Engine
-> Geocoordinate spatial position calculations with **Gemini Flash** for personalized cosmic readings. TanStack Start, Vite, Supabase RLS.
+**🟣 devsaurabh.in** — AI Engineer Portfolio & Commerce Platform
+> Production full-stack personal platform built with **Next.js 14**, TypeScript, Tailwind CSS, and Supabase. Features a cyber terminal HUD, live GitHub streak telemetry widget, and automated digital art commerce with signed URLs.
 
-🔗 [**Source Code**](https://github.com/DEVsaurabhgaur/KundaliAI)
+🔗 [**Live Website**](https://devsaurabh.in) · [**Source Code**](https://github.com/DEVsaurabhgaur/saurabhgaur.world)
 
 </td>
 <td width="40%" align="center">
 
 ```
-STATUS : ████████████ ACTIVE
-STACK  : TanStack, Vite, Supabase
-AI     : Gemini Flash
+STATUS  : PRODUCTION
+STACK   : Next.js 14, TypeScript
+DB      : Supabase PostgreSQL
+PERF    : Sub-second edge cached
 ```
 
 </td>
 </tr>
 </table>
 
-<details>
-<summary><b>📂 More Projects</b></summary>
-<br/>
+<table>
+<tr>
+<td width="60%">
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **[EliteStreak](https://github.com/DEVsaurabhgaur/EliteStreak)** | Gamified performance OS with RPG mechanics, XP system, skill tree | Vite, Vanilla JS, Chart.js, IndexedDB |
-| **[LaptopPulse](https://github.com/DEVsaurabhgaur/LaptopPulse)** | Lightweight system health daemon (<0.3% CPU) with anomaly detection | Python |
+**🟣 MakaanBook** — Server-Side Rendered Web Platform
+> High-performance SSR web application built with **TypeScript, React, and TanStack Start**, designed strictly to meet WCAG accessibility standards.
 
-</details>
+🔗 [**Live App**](https://makaan-book.vercel.app) · [**Source Code**](https://github.com/DEVsaurabhgaur/MAKANBOOK)
 
----
+</td>
+<td width="40%" align="center">
 
-### 🛠️ Tech Stack
+```
+STATUS  : PRODUCTION
+STACK   : TanStack Start, React
+STANDARDS: WCAG Accessibility
+```
 
-<div align="center">
+</td>
+</tr>
+</table>
 
-![Python](https://img.shields.io/badge/Python-a855f7?style=for-the-badge&logo=python&logoColor=white&labelColor=0d001a)
-![TypeScript](https://img.shields.io/badge/TypeScript-8b5cf6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d001a)
-![JavaScript](https://img.shields.io/badge/JavaScript-7c3aed?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0d001a)
-![SQL](https://img.shields.io/badge/SQL-6d28d9?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d001a)
+<table>
+<tr>
+<td width="60%">
 
-![LangGraph](https://img.shields.io/badge/LangGraph-a855f7?style=for-the-badge&labelColor=0d001a)
-![LangChain](https://img.shields.io/badge/LangChain-8b5cf6?style=for-the-badge&labelColor=0d001a)
-![Gemini API](https://img.shields.io/badge/Gemini_API-7c3aed?style=for-the-badge&logo=google&logoColor=white&labelColor=0d001a)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-6d28d9?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d001a)
+**🟣 LaptopPulse** — Hardware Health Monitoring Daemon
+> Background system diagnostic daemon written in **Python** using Windows WMI, real-time CPU/thermal telemetry, anomaly-based failure prediction, and **AES-256-GCM** secure local telemetry storage.
 
-![Next.js](https://img.shields.io/badge/Next.js-a855f7?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0d001a)
-![React](https://img.shields.io/badge/React-8b5cf6?style=for-the-badge&logo=react&logoColor=white&labelColor=0d001a)
-![FastAPI](https://img.shields.io/badge/FastAPI-7c3aed?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0d001a)
-![Node.js](https://img.shields.io/badge/Node.js-6d28d9?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0d001a)
-![Tailwind](https://img.shields.io/badge/Tailwind-5b21b6?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0d001a)
+🔗 [**Source Code**](https://github.com/DEVsaurabhgaur/LaptopPulse)
 
-![Docker](https://img.shields.io/badge/Docker-a855f7?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d001a)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-8b5cf6?style=for-the-badge&logo=azuredevops&logoColor=white&labelColor=0d001a)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-7c3aed?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0d001a)
-![Supabase](https://img.shields.io/badge/Supabase-6d28d9?style=for-the-badge&logo=supabase&logoColor=white&labelColor=0d001a)
-![Vercel](https://img.shields.io/badge/Vercel-5b21b6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d001a)
+</td>
+<td width="40%" align="center">
 
-</div>
+```
+STATUS  : ACTIVE DAEMON
+RESOURCE: <0.3% CPU Overhead
+SECURITY: AES-256-GCM
+ANOMALY : Heuristic Predictor
+```
 
----
-
-### 📜 Certifications
-
-| Certification | Issuer | Date |
-|:---|:---|:---|
-| 🏅 **AI Product Manager** — Professional Certificate | Microsoft | Jun 2026 |
-| ✅ **AZ-400** — Designing & Implementing DevOps Solutions | Microsoft | Jun 2026 |
-| ⚡ **GPU Optimization for LLM Inference** | AMD AI Academy | Jun 2026 |
-| 🤗 **Hugging Face on AMD Integration** | AMD AI Academy | Jun 2026 |
+</td>
+</tr>
+</table>
 
 ---
 
-### 📈 GitHub Analytics
+### 📜 Certifications & Credentials
+
+| Certification / Program | Issuing Organization | Date | Details |
+|:---|:---|:---:|:---|
+| 🏅 **AZ-400: Designing and Implementing Microsoft DevOps Solutions** | **Microsoft** | Jun 2026 | **Score: 900 / 1000** (Passing: 700). Build & release pipelines, security, source control. |
+| 🎓 **Google AI Professional Certificate** (7 Courses) | **Google** | May 2026 | Comprehensive foundation across modern AI, neural networks & deployment. |
+| 💼 **Microsoft AI Product Manager Certificate** (5 Courses) | **Microsoft** | Jun 2026 | AI product lifecycle, user experience, governance, go-to-market. |
+| ⚡ **AMD AI Academy: GPU Optimization for LLM Inference** | **AMD** | Jun 2026 | Low-latency inference tuning, ROCm acceleration, memory management. |
+| 🤗 **AMD AI Academy: Hugging Face on AMD Integration** | **AMD** | Jun 2026 | Accelerated open-source LLM deployments on AMD hardware. |
+| ☁️ **AZ-104 Prerequisites for Azure Administrators** | **Microsoft** | Jun 2026 | All Microsoft Learn prerequisite paths & module assessments passed. |
+| 📜 **AI with Python, Java, Blockchain Development** | **Great Learning** | 2021 – 2024 | Multi-year engineering foundations in software and intelligent systems. |
+
+---
+
+### 🎓 Education
+
+* **Bachelor of Technology (B.Tech) in Computer Science**  
+  *Dr. A.P.J. Abdul Kalam Technical University (AKTU), Lucknow, India* · `2020 – 2025`
+* **Diploma in Mechanical Engineering**  
+  *Board of Technical Education, Uttar Pradesh (BTEUP), India* · `2016 – 2020`
+
+---
+
+### 📈 GitHub Analytics & Activity
 
 <div align="center">
 
@@ -230,10 +304,6 @@ AI     : Gemini Flash
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DEVsaurabhgaur&theme=github_dark" width="100%"/>
-
-<br/><br/>
-
 <img src="https://raw.githubusercontent.com/DEVsaurabhgaur/DEVsaurabhgaur/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
@@ -246,9 +316,8 @@ AI     : Gemini Flash
 
 <br/><br/>
 
-**Rudrapur, Uttarakhand, India · Remote Enabled · Open to Opportunities**
-
-*If you're building something ambitious with AI, let's talk.*
+**Rudrapur, Uttarakhand, India · Remote Enabled · Open to Opportunities**  
+*Looking to build frontier AI products or evaluate complex LLM systems? Reach out at [saurabhgaur.dev@gmail.com](mailto:saurabhgaur.dev@gmail.com)*
 
 <br/>
 
